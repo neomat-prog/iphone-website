@@ -12,7 +12,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone https://github.com/neomat-prog/iphone-website.git
 cd iphone-doc
 Installation
 
