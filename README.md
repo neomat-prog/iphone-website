@@ -13,7 +13,7 @@ npm (Node Package Manager)
 Cloning the Repository
 
 git clone https://github.com/neomat-prog/iphone-website.git
-cd iphone-doc
+cd iphone-website
 Installation
 
 Install the project dependencies using npm:
