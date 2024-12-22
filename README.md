@@ -1,3 +1,4 @@
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/1e56b105-40fc-4cef-a297-c2acede7b890" />
 
 # iPhone 15 Pro Showcase Website using React + Vite
 🤸 Quick Start
